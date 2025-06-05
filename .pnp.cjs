@@ -27,7 +27,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@actions/cache", "npm:4.0.3"],\
-          ["@actions/core", "npm:1.10.1"],\
+          ["@actions/core", "npm:1.11.1"],\
           ["@cspell/dict-win32", "npm:2.0.3"],\
           ["@fast-check/jest", "virtual:44054250fa45db66bb537d7f889b63e21f845617f28647dee3cebc87a7de5686b316e55d8b968f9ef5f8fc93237e9ae15ec236b5064d13c4a68fc5de92838890#npm:1.8.0"],\
           ["@jest/globals", "npm:29.7.0"],\
@@ -3310,7 +3310,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["docker-cache", "workspace:."],\
           ["@actions/cache", "npm:4.0.3"],\
-          ["@actions/core", "npm:1.10.1"],\
+          ["@actions/core", "npm:1.11.1"],\
           ["@cspell/dict-win32", "npm:2.0.3"],\
           ["@fast-check/jest", "virtual:44054250fa45db66bb537d7f889b63e21f845617f28647dee3cebc87a7de5686b316e55d8b968f9ef5f8fc93237e9ae15ec236b5064d13c4a68fc5de92838890#npm:1.8.0"],\
           ["@jest/globals", "npm:29.7.0"],\

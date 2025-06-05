@@ -22,15 +22,15 @@
   "packageManager": "yarn@4.1.1",
   "dependencies": {
     "@actions/cache": "4.0.3",
-    "@actions/core": "1.11.1",
-    "@protobuf-ts/runtime": "^2.11.0",
-    "@protobuf-ts/runtime-rpc": "^2.11.0"
+    "@actions/core": "1.11.1"
   },
   "devDependencies": {
     "@cspell/dict-win32": "2.0.3",
     "@fast-check/jest": "1.8.0",
     "@jest/globals": "29.7.0",
     "@jest/types": "29.6.3",
+    "@protobuf-ts/runtime": "^2.11.0",
+    "@protobuf-ts/runtime-rpc": "^2.11.0",
     "@tsconfig/node20": "20.1.2",
     "@tsconfig/strictest": "2.0.3",
     "@types/eslint": "8.56.6",
